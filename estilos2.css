@@ -1,0 +1,54 @@
+:root{
+	--d
+	--dd
+	--im
+}
+
+#d{
+	background-color: #FAF7FA;
+}
+
+#dd{
+	background-color: #E5E3E5;
+}
+
+#im{
+	width: 550px;
+	height: 550px;
+	display:block;
+	margin:auto;
+}
+
+body{
+	margin: 0 auto;
+	background-color: #DBB9DA;
+
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	display:block;
+	margin:auto;
+}
+
+div{
+	background-color: #FAF7FA;
+	border: black 5px solid;
+}
+
+p{
+	text-align: center;
+	font-family: andale mono;
+	font-size: 30px;
+}
+
+h2{
+	text-align: justify;
+	font-family: andale mono;
+}
+
+h3{
+	text-align: justify;
+	font-family: andale mono;
+}
